@@ -1607,3 +1607,7 @@ section.banner-blog .banner-caption h1 {
         font-size: 32px;
     }
 }
+
+.center {
+    text-align: center;
+}
